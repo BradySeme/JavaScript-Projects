@@ -5,6 +5,10 @@ document.getElementById("typeof").innerHTML = a;
 
 //-------------------------------------------------//
 
+document.getElementById("combine").innerHTML = 3 + "4";
+
+//-------------------------------------------------//
+
 document.getElementById("pos").innerHTML = 2E2530;
 
 document.getElementById("neg").innerHTML = -2E1081;
